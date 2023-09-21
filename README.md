@@ -8,6 +8,8 @@ Our application simplifies the process of reporting water concerns, from citizen
 - [@Lalman888](https://github.com/Lalman888)
 - [@1708yash](https://github.com/1708yash)
 - [@ujjawalagarwal123](https://github.com/ujjawalagarwal123)
+- [@CodeCognos](https://github.com/CodeCognos)
+- [@swapnilsachan03](https://github.com/swapnilsachan03)
 
 
 ## Dependencies / Show stopper here
