@@ -12,13 +12,13 @@ Our application simplifies the process of reporting water concerns, from citizen
 
 ## Dependencies / Show stopper here
 
--Internet Speed and Accessibility: Our application is designed to work with slower 2G internet speeds ensuring that users, in remote areas can easily report any water related issues they encounter. Additionally we have included support for languages to make sure that users can interact with the app in their language. In case of emergencies we have implemented notifications to provide alerts.
+-##Internet Speed and Accessibility: Our application is designed to work with slower 2G internet speeds ensuring that users, in remote areas can easily report any water related issues they encounter. Additionally we have included support for languages to make sure that users can interact with the app in their language. In case of emergencies we have implemented notifications to provide alerts.
 
--Data Privacy: The privacy of user data is of importance to us. We have taken measures such as encryption and anonymization to protect user information. Our privacy policies are transparent. We have put consent mechanisms in place to ensure that users have control over their data.
+-##Data Privacy: The privacy of user data is of importance to us. We have taken measures such as encryption and anonymization to protect user information. Our privacy policies are transparent. We have put consent mechanisms in place to ensure that users have control over their data.
 
--Scalability: We understand the importance of being able to accommodate a growing number of users. That's why our app has a infrastructure that is ready to scale up as our user base expands.
+-##Scalability: We understand the importance of being able to accommodate a growing number of users. That's why our app has a infrastructure that is ready to scale up as our user base expands.
 
--Accuracy of Analysis: We are constantly working on improving the accuracy of our computer vision models so that they can effectively categorize types of water problems. Through research and updates, in machine learning techniques we aim to provide accurate analysis.
+-##Accuracy of Analysis: We are constantly working on improving the accuracy of our computer vision models so that they can effectively categorize types of water problems. Through research and updates, in machine learning techniques we aim to provide accurate analysis.
 
 ## Technologies Used
 
@@ -33,5 +33,5 @@ Database
 
 backend
 - Python
-- Flask
+- Fast API
 - Azure
